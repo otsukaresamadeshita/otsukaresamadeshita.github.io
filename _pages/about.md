@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a tree that sometimes codes. I do tree things and am looking for employment, no matter how small the job!
+I'm a crow that sometimes codes. I do crow things and am looking for employment, no matter how small the job!
