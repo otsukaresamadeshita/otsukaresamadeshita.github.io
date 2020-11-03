@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Otsukaresama_Deshita!"
+title: "Otsukaresama Deshita!"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a crow that sometimes codes. I do crow things and am looking for employment, no matter how small the job!
+Most of my background is in teaching. I don't have any formal education in computers, I like math but don't have much formal training in that either. I can do almost anything R can do, have experience writing bash scripts, and can read python. I'm learning Rust and it's difficult!!! Sometimes it seems like I'm not really making progress, so I'm going to document what I'm learning on this blog to keep track. I'm looking for a junior or intern level position. Cheers
