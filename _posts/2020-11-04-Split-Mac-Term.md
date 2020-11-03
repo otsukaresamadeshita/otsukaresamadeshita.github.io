@@ -29,4 +29,6 @@ There are a few shortcuts I think are indispensible:
 `(control+a)` and `(control+e)` to skip to beginning and end of a line.
 Of course on mac, can't go without `(command+c)` and `(command+v)`: copy and paste.
 `(control+u)`: clear the line.
+`history | grep foo`: find a command in your history containing 'foo'.
 
+I didn't care about shortcuts and all this that much in the beginning, but at one point you'll really want to start using them or die searching your history for a command or for your cursor to delete everything on a line.
