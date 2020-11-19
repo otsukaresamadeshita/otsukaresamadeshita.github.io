@@ -1,7 +1,7 @@
 ---
 title: 'Reading SAM files: Rust Bio and Noods'
-date: 2020-10-16
-permalink: /posts/2020/1016/rust-bio/
+date: 2021-10-16
+permalink: /posts/2021/1016/rust-bio/
 tags:
   - rust
   - bio
